@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1,RPC Globo HD
+http://tau.selfip.com:25461/cristina/cristina/21343
+
+#EXTINF:-1,Globo SP HD
+http://tau.selfip.com:25461/cristina/cristina/1152
+
+#EXTINF:-1,Premiere 1 HD
+http://tau.selfip.com:25461/cristina/cristina/1159
+
+#EXTINF:-1,Premiere 1 HD2
+http://tau.selfip.com:25461/cristina/cristina/1294
+
+#EXTINF:-1,Premiere 2 HD
+http://tau.selfip.com:25461/cristina/cristina/1158
+
+#EXTINF:-1,Premiere 3 HD
+http://tau.selfip.com:25461/cristina/cristina/1157
+
+#EXTINF:-1,Premiere 4 HD
+http://tau.selfip.com:25461/cristina/cristina/1156
+
+#EXTINF:-1,Premiere 5 HD
+http://tau.selfip.com:25461/cristina/cristina/1155
+
+#EXTINF:-1,Premiere 6 HD
+http://tau.selfip.com:25461/cristina/cristina/1154
